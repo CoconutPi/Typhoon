@@ -1,9 +1,13 @@
 body {
-    
+    font-family: cursive;
     background-image: url(images/seigaiha.png);
 }
 
 h1 {
+    font-family: cursive;
+}
+
+h3 {
     font-family: cursive;
 }
 
@@ -12,12 +16,12 @@ h1 {
     padding-top: 5px;
     padding-bottom: 2px;
     padding-left: 8px;
-    background-color: darksalmon;
+    background-color: darkred;
 }
 
 #main {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 20px;
     height: 100%;
     justify-content: center;
     align-items: center;
@@ -44,4 +48,19 @@ h1 {
     font-size: 70%;
     font-weight: 100;
     
+}
+
+#foodItem {
+    font-weight: 3000;
+    color: darkred;
+}
+
+#menu {
+    font-size: 110%;
+}
+
+#directory {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
 }
