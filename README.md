@@ -1,3 +1,3 @@
 # Typhoon
-Simple Thai restaurant website
-www.thaityphoon.com
+Simple restaurant website for Typhoon, Thai restaurant in Middletown, CT.
+www.thaityphoon.com 
