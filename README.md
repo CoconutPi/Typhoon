@@ -1,2 +1,3 @@
 # Typhoon
-Thai restaurant website
+Simple Thai restaurant website
+www.thaityphoon.com
